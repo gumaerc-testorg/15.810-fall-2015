@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding analytics funnel spreadsheet.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/a263b6db1d14d1c76b6354f150e7bcb1_MIT15_810F15_AnaFunlSheet.xlsx
+file: /media/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/a263b6db1d14d1c76b6354f150e7bcb1_MIT15_810F15_AnaFunlSheet.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_AnaFunlSheet.xlsx
 uid: a263b6db-1d14-d1c7-6b63-54f150e7bcb1

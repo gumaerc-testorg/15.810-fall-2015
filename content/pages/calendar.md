@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d710caaa-400a-54f0-7ed6-538e01181b53
 ---
@@ -94,7 +96,7 @@ Practice
 5
 {{< tdclose >}}
 {{< tdopen >}}
-BBVA Compass: Marketing Resource Allocation† (Analytics)
+BBVA Compass: Marketing Resource Allocation{{< sup "†" >}} (Analytics)
 {{< tdclose >}}
 {{< tdopen >}}
 Case
@@ -124,7 +126,7 @@ Frameworks
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Brita Products Company† (Positioning, Disruptive New Product)
+Brita Products Company{{< sup "†" >}} (Positioning, Disruptive New Product)
 {{< tdclose >}}
 {{< tdopen >}}
 Case
@@ -199,7 +201,7 @@ Frameworks
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Aqualisa Quartz: Simply a Better Shower† (Product, Place)
+Aqualisa Quartz: Simply a Better Shower{{< sup "†" >}} (Product, Place)
 {{< tdclose >}}
 {{< tdopen >}}
 Case
@@ -214,7 +216,7 @@ Aqualisa Quarz Case Write-up due
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The New York Times Paywall† (Pricing)
+The New York Times Paywall{{< sup "†" >}} (Pricing)
 {{< tdclose >}}
 {{< tdopen >}}
 Case
@@ -259,7 +261,7 @@ Practice
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Swatch† (Advertising, Framing, Integration, 4 P's)
+Swatch{{< sup "†" >}} (Advertising, Framing, Integration, 4 P's)
 {{< tdclose >}}
 {{< tdopen >}}
 Case
@@ -338,4 +340,4 @@ Synthesis Assignment due
 
 {{< tableclose >}}
 
-† Eligible for case write‐up. One write‐up in H1; one write‐up in H2.
+{{< sup "†" >}} Eligible for case write‐up. One write‐up in H1; one write‐up in H2.

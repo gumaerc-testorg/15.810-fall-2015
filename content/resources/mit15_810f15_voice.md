@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding the voice of the customer.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/2ddfdbcc07a04fc5638cc8ce346dca01_MIT15_810F15_Voice.pdf
+file: /media/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/2ddfdbcc07a04fc5638cc8ce346dca01_MIT15_810F15_Voice.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Note on the Voice of the Customer - 15.810 Fall 2015
 uid: 2ddfdbcc-07a0-4fc5-638c-c8ce346dca01
