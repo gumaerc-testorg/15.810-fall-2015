@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7b25c017-eff9-5f06-ba7a-9a9544bb3c5f
 ---
@@ -74,7 +77,7 @@ No readings.
 5
 {{< tdclose >}}
 {{< tdopen >}}
-BBVA Compass: Marketing Resource Allocation† (Analytics)
+BBVA Compass: Marketing Resource Allocation{{< sup "†" >}} (Analytics)
 {{< tdclose >}}
 {{< tdopen >}}
 Gupta, Sunil, and Joseph Davies-Gavin. "[BBVA Compass: Marketing Resource Allocation](https://hbr.org/product/bbva-compass-marketing-resource-allocation/511096-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐511‐096, January 27, 2011.
@@ -98,7 +101,7 @@ Gupta, Sunil, and Joseph Davies-Gavin. "[BBVA Compass: Marketing Resource Alloca
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Brita Products Company† (Positioning, Disruptive New Product)
+Brita Products Company{{< sup "†" >}} (Positioning, Disruptive New Product)
 {{< tdclose >}}
 {{< tdopen >}}
 Deighton, John. "[Brita Products Company](https://hbr.org/product/brita-products-co/500024-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐500‐024, August 30, 1999.
@@ -170,7 +173,7 @@ Dolan, Robert J, and John T. Gourville. "[Principles of Pricing](http://hbr.org/
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Aqualisa Quartz: Simply a Better Shower† (Product, Place)
+Aqualisa Quartz: Simply a Better Shower{{< sup "†" >}} (Product, Place)
 {{< tdclose >}}
 {{< tdopen >}}
 Moon, Youngme, and Kerry Herman. "[Aqualisa Quartz: Simply a Better Shower](https://hbr.org/product/aqualisa-quartz-simply-a-better-shower/502030-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐502‐030, January 16, 2002.
@@ -182,7 +185,7 @@ Moon, Youngme, and Kerry Herman. "[Aqualisa Quartz: Simply a Better Shower](http
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The New York Times Paywall† (Pricing)
+The New York Times Paywall{{< sup "†" >}} (Pricing)
 {{< tdclose >}}
 {{< tdopen >}}
 Kumar, Vineet, Bharat N. Anand, et al. "[The New York Times Paywall](https://hbr.org/product/the-new-york-times-paywall/512077-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐512‐077, February 22, 2012.
@@ -224,7 +227,7 @@ No readings.
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Swatch† (Advertising, Framing, Integration, 4 P's)
+Swatch{{< sup "†" >}} (Advertising, Framing, Integration, 4 P's)
 {{< tdclose >}}
 {{< tdopen >}}
 Moon, Youngme. "[The Birth of the Swatch](https://hbr.org/product/birth-of-the-swatch/504096-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐504‐096, June 08, 2004.
@@ -282,4 +285,4 @@ No readings.
 
 {{< tableclose >}}
 
-† Eligible for case write‐up. One write‐up in H1; one write‐up in H2.
+{{< sup "†" >}} Eligible for case write‐up. One write‐up in H1; one write‐up in H2.

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 6614dc94-9f93-abca-d363-c7651a9ece53
 ---
@@ -73,7 +76,7 @@ _In‐class Project Meetings: Topic and Customer Identification._
 5
 {{< tdclose >}}
 {{< tdopen >}}
-BBVA Compass: Marketing Resource Allocation† (Analytics)
+BBVA Compass: Marketing Resource Allocation{{< sup "†" >}} (Analytics)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -97,7 +100,7 @@ BBVA Compass: Marketing Resource Allocation† (Analytics)
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Brita Products Company† (Positioning, Disruptive New Product)
+Brita Products Company{{< sup "†" >}} (Positioning, Disruptive New Product)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,7 +160,7 @@ _Project Groups Meet on their Own to Finalize Topics._
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Aqualisa Quartz: Simply a Better Shower† (Product, Place) 
+Aqualisa Quartz: Simply a Better Shower{{< sup "†" >}} (Product, Place) 
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -169,7 +172,7 @@ Aqualisa Quartz: Simply a Better Shower† (Product, Place) 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The New York Times Paywall† (Pricing)
+The New York Times Paywall{{< sup "†" >}} (Pricing)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -205,7 +208,7 @@ Special Guest: Sahver Binici, Founder, Olivita Artisan
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Swatch† (Advertising, Framing, Integration, 4 P's)
+Swatch{{< sup "†" >}} (Advertising, Framing, Integration, 4 P's)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -263,4 +266,4 @@ Dove: Brand Evolution (Societal Issues, Social Media)
 
 {{< tableclose >}}
 
-† Eligible for case write‐up. One write‐up in H1; one write‐up in H2.
+{{< sup "†" >}} Eligible for case write‐up. One write‐up in H1; one write‐up in H2.
