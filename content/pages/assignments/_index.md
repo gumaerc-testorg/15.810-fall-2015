@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course assignments and additional materials.
+  Assignments include an action learning exercise, group case reports, short assignments,
+  and a synthesis assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +13,7 @@ uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 Action Learning Exercise
 ------------------------
 
-An action‐learning exercise on the practice of marketing is due on the last scheduled day of classes. [Assignment Details and Examples]({{< baseurl >}}/pages/assignments/action-learning-assignment).
+An action‐learning exercise on the practice of marketing is due on the last scheduled day of classes. {{% resource_link ef315a4c-ec50-45e6-f8fb-4e09df03e665 "Assignment Details and Examples" %}}.
 
 Group Case Reports
 ------------------
@@ -49,9 +52,9 @@ BBVA Compass
 {{< tdopen >}}
 
 
-[Brita Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_810f15_s07zbrita_for-1) [(PDF)]({{< baseurl >}}/resources/mit15_810f15_s07zbrita_for)
+{{% resource_link a5a6d8f0-5f23-a35c-8bee-0e23d023915c "Brita Spreadsheet (XLS)" %}} {{% resource_link 39ef03a5-3881-0304-6296-a90f1d75c720 "(PDF)" %}}
 
-[BBVA Compass Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_810f15_s05zbbva_comp-1) [(PDF)]({{< baseurl >}}/resources/mit15_810f15_s05zbbva_comp)
+{{% resource_link 98d21620-2042-04a5-e011-894ed718aa00 "BBVA Compass Spreadsheet (XLS)" %}} {{% resource_link 1dc7856b-2c8c-f543-3b96-4d9da348bcfd "(PDF)" %}}
 
 
 {{< tdclose >}}
@@ -80,7 +83,7 @@ No Additional Materials
 
 {{< tableclose >}}
 
-The case reports should consist of approximately five (5) pages of text (space‐and‐a‐half, 12‐point fonts, standard margins) and should _address the_ [_Discussion Questions (PDF)_]({{< baseurl >}}/resources/mit15_810f15_discusionques). Longer reports are _strongly_ discouraged. (As Pascal said: "I'm sorry I wrote you such a long letter; I didn't have time to write a short one.") You may refer to figures or computations that _use data from the case_. You are allowed, but not required, to have a small number of exhibits at the end of your report. Your reports must be submitted prior to the start of the class in which the case is discussed. The file name should include your team name and the case. For example, Angry\_Nerds\_Brita\_15810.pdf.
+The case reports should consist of approximately five (5) pages of text (space‐and‐a‐half, 12‐point fonts, standard margins) and should _address the_ {{% resource_link 35a55236-576c-b6ad-09d4-e0448c1b578e "_Discussion Questions (PDF)_" %}}. Longer reports are _strongly_ discouraged. (As Pascal said: "I'm sorry I wrote you such a long letter; I didn't have time to write a short one.") You may refer to figures or computations that _use data from the case_. You are allowed, but not required, to have a small number of exhibits at the end of your report. Your reports must be submitted prior to the start of the class in which the case is discussed. The file name should include your team name and the case. For example, Angry\_Nerds\_Brita\_15810.pdf.
 
 Additional Recommendations
 --------------------------
@@ -117,19 +120,19 @@ ADDITIONAL MATERIALS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Analytics Funnel Problem Set (PDF)]({{< baseurl >}}/resources/mit15_810f15_anafunl_prob)
+{{% resource_link 663fa6bc-458f-a680-01e8-3371aab14b35 "Analytics Funnel Problem Set (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Analytics Funnel Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_810f15_anafunlsheet) [(PDF)]({{< baseurl >}}/resources/mit15_810f15_anafunlsheet-1)
+{{% resource_link a263b6db-1d14-d1c7-6b63-54f150e7bcb1 "Analytics Funnel Spreadsheet (XLS)" %}} {{% resource_link 163722a6-cef3-82e3-f3bf-dba6180ffe90 "(PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Analytics Simulated Store Problem Set (PDF)]({{< baseurl >}}/resources/mit15_810f15_anasim_problm)
+{{% resource_link ced6aaa7-1e13-bb3f-7df8-eae593360e04 "Analytics Simulated Store Problem Set (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Analytics Simulated Store Spreadsheet (XLS)]({{< baseurl >}}/resources/mit15_810f15_anasim_sheet) [(PDF)]({{< baseurl >}}/resources/mit15_810f15_anasim_sheet-1)
+{{% resource_link 49455b92-7f0a-4f3f-345b-792913c7dee4 "Analytics Simulated Store Spreadsheet (XLS)" %}} {{% resource_link 3fc56e03-86a5-6003-6db2-67b1b62600ce "(PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
