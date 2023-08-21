@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on the nature and purpose
+  of the course, course organization, meeting times, materials, teams, case reports,
+  assignments, MIT Sloan values, grading, and final comments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,12 +44,12 @@ The course helps you learn marketing through four interrelated activities.
 Course Materials
 ----------------
 
-The course draws upon a readings packet containing cases, required readings, and background readings. There is no required textbook for this subject. See the [Readings Section]({{< baseurl >}}/pages/readings).
+The course draws upon a readings packet containing cases, required readings, and background readings. There is no required textbook for this subject. See the {{% resource_link 7b25c017-eff9-5f06-ba7a-9a9544bb3c5f "Readings Section" %}}.
 
 Action Learning - Exercise on the Practice of Marketing
 -------------------------------------------------------
 
-An action‐learning exercise on the practice of marketing is due on the last scheduled day of classes for 15.810. See detailed instructions in the [Action Learning Assignment Page]({{< baseurl >}}/pages/assignments/action-learning-assignment).
+An action‐learning exercise on the practice of marketing is due on the last scheduled day of classes for 15.810. See detailed instructions in the {{% resource_link ef315a4c-ec50-45e6-f8fb-4e09df03e665 "Action Learning Assignment Page" %}}.
 
 You may coordinate the _topic_ with topics covered in co‐curricular activities such as the Enterprise Management pro‐seminar. However, for 15.810 you must satisfy the requirements of the 15.810 project—please do not hand in a report prepared for a co‐curricular activity. You should submit this assignment prior to the start of class on the due date. The file name should include your team name. For example, Angry\_Nerds\_Action\_15810.pdf.
 

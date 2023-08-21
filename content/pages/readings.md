@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the required readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ _**The**_ **Marketing Framework: 4 P's and 5 C's**
 {{< tdclose >}}
 {{< tdopen >}}
 Teixeira, Thales S. "[Digital Marketing Strategy, Course Overview Note](https://hbr.org/product/digital-marketing-strategy-course-overview-note/514087-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐578‐061, December 17, 2013.  
-[Note on Strategic Positioning (PDF)]({{< baseurl >}}/resources/mit15_810f15_strategic)
+{{% resource_link 6ac992a8-742b-b222-3184-ed3dc981f2e2 "Note on Strategic Positioning (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +93,7 @@ Gupta, Sunil, and Joseph Davies-Gavin. "[BBVA Compass: Marketing Resource Alloca
 **Consumer Psychology: Framing and Schema**
 {{< tdclose >}}
 {{< tdopen >}}
-[Note on Consumer Behavior (PDF)]({{< baseurl >}}/resources/mit15_810f15_consumer)
+{{% resource_link 6cb1b002-884e-5998-4e27-98bed5d3dc9e "Note on Consumer Behavior (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +143,7 @@ No readings.
 {{< tdopen >}}
 
 
-[Note on the Voice of the Customer (PDF)]({{< baseurl >}}/resources/mit15_810f15_voice)
+{{% resource_link 2ddfdbcc-07a0-4fc5-638c-c8ce346dca01 "Note on the Voice of the Customer (PDF)" %}}
 
 Keinan, Anat, and Jill Avery. "[Understanding Brands, Module Note](https://hbr.org/product/understanding-brands-module-note/509041-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐509‐041, November 26, 2008.
 
@@ -162,7 +163,7 @@ Keinan, Anat, and Jill Avery. "[Understanding Brands, Module Note](https://hbr.o
 
 Dolan, Robert J, and John T. Gourville. "[Principles of Pricing](http://hbr.org/product/principles-of-pricing/506021-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐506‐021, September 22, 2005.
 
-[Note on Conjoint Analysis (PDF)]({{< baseurl >}}/resources/mit15_810f15_conjoint)
+{{% resource_link f863194d-7fe6-1a92-4053-26b29261dc76 "Note on Conjoint Analysis (PDF)" %}}
 
 
 {{< tdclose >}}
