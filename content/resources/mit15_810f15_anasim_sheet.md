@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding analytics simulated store
   spreadsheet.
 file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/49455b927f0a4f3f345b792913c7dee4_MIT15_810F15_AnaSim_Sheet.xlsx
+file_size: 47163
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments

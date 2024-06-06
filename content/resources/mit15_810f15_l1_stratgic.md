@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding strategic positioning.
 file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/94f85265c55f1fc6b3620e82abc77a9e_MIT15_810F15_L1_Stratgic.pdf
+file_size: 1733370
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
