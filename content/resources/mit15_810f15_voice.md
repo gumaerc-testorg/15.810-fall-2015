@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the voice of the customer.
 file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/2ddfdbcc07a04fc5638cc8ce346dca01_MIT15_810F15_Voice.pdf
+file_size: 393965
 file_type: application/pdf
 learning_resource_types:
 - Readings
