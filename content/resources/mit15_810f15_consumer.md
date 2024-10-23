@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding consumer behavior.
-file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/6cb1b002884e59984e2798bed5d3dc9e_MIT15_810F15_Consumer.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/6cb1b002884e59984e2798bed5d3dc9e_MIT15_810F15_Consumer.pdf
 file_size: 429524
 file_type: application/pdf
 learning_resource_types:

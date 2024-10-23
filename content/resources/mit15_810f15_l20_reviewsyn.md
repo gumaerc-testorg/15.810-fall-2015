@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding review and synthesis
   of marketing.
-file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/228558d743f9827aedb2dc1d8943ad0c_MIT15_810F15_L20_ReviewSyn.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/228558d743f9827aedb2dc1d8943ad0c_MIT15_810F15_L20_ReviewSyn.pdf
 file_size: 1429183
 file_type: application/pdf
 learning_resource_types:
