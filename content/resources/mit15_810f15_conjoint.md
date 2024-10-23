@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding conjoint analysis.
-file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/f863194d7fe61a92405326b29261dc76_MIT15_810F15_Conjoint.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/f863194d7fe61a92405326b29261dc76_MIT15_810F15_Conjoint.pdf
 file_size: 793321
 file_type: application/pdf
 learning_resource_types:
