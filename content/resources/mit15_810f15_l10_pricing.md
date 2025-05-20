@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding pricing.
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/af93b992c0c358d2957cc8be6710dedb_MIT15_810F15_L10_Pricing.pdf
+file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/af93b992c0c358d2957cc8be6710dedb_MIT15_810F15_L10_Pricing.pdf
 file_size: 1746894
 file_type: application/pdf
 learning_resource_types:

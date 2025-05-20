@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding case discussion questions.
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/35a55236576cb6ad09d4e0448c1b578e_MIT15_810F15_DiscusionQues.pdf
+file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/35a55236576cb6ad09d4e0448c1b578e_MIT15_810F15_DiscusionQues.pdf
 file_size: 259481
 file_type: application/pdf
 learning_resource_types:

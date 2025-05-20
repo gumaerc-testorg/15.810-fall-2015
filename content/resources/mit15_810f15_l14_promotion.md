@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding promotion.
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/41f7a6d0ce269307c48ead010d8d621d_MIT15_810F15_L14_Promotion.pdf
+file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/41f7a6d0ce269307c48ead010d8d621d_MIT15_810F15_L14_Promotion.pdf
 file_size: 2151954
 file_type: application/pdf
 learning_resource_types:
