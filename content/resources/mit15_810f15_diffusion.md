@@ -3,7 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding marketing management:
   analytics, frameworks, and applications diffusion model simulator - 15.810 fall
   2015.'
-file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/f6295c1326850e7dc31eee04bfd92a8c_MIT15_810F15_Diffusion.pdf
+file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/f6295c1326850e7dc31eee04bfd92a8c_MIT15_810F15_Diffusion.pdf
 file_size: 111874
 file_type: application/pdf
 learning_resource_types:
