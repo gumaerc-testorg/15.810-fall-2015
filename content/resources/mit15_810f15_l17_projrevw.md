@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding project review.
-file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/5ee9e268c3e8b8ead2616a21be335120_MIT15_810F15_L17_ProjRevw.pdf
+file: /ol-ocw-studio-app/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/5ee9e268c3e8b8ead2616a21be335120_MIT15_810F15_L17_ProjRevw.pdf
 file_size: 670253
 file_type: application/pdf
 learning_resource_types:
